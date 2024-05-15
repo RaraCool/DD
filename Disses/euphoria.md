@@ -1,6 +1,7 @@
 Performer: [[Kendrick Lamar]]
 Producers: Cardo, Kyuro, Sounwave, Johnny Juliano, Yung Exclusive, Matthew "MTech" Bernard
-
+# Cover Art
+![[euphoria.jpg]]
 # Lyrics
 **Intro**
 eurt si em tuoba yas yeht gnihtyrevE

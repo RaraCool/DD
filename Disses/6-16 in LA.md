@@ -1,6 +1,7 @@
 Performer: [[Kendrick Lamar]]
 Producers: Sounwave, Jack Antonoff
-
+# Cover Art
+![[6-16 in LA.jpg]]
 # Lyrics
 **Intro**
 Uh (Uh)

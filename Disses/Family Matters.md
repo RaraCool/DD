@@ -1,5 +1,7 @@
 Performers: [[Drake]], Sandra Graham
 Producers: Boi-1da, Tay Keith, Mark Ronson, Fierce, Kevin Mitchell, Dramakid, Preme, Jordan Fox
+# Cover Art
+![[Family Matters.jpg]]
 # Lyrics
 **Intro**
 *[[Drake]], Sandra Graham*

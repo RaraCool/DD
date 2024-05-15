@@ -1,5 +1,7 @@
 Performer: [[Kendrick Lamar]]
 Producers: Mustard, Sounwave, Sean Momberger
+# Cover Art
+![[Not Like Us.jpg]]
 # Lyrics
 **Intro**
 *[[Kendrick Lamar]], Mustard*
@@ -103,10 +105,13 @@ Quavo said you can be from Northside (What?)
 2 Chainz say you good, but he lied
 You run to Atlanta when you need a few dollars
 No, you not a colleague, you a fuckin' colonizer
+
+**Bridge**
+*[[Kendrick Lamar]]*
 The family matter and the truth of the matter
 It was God's plan to show y'all the liar
 
-**Bridge**
+**Verse 5**
 *[[Kendrick Lamar]]*
 Mm
 Mm-mm

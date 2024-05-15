@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Disses/Not Like Us.md",
-                "mode": "preview",
+                "file": "Disses/Disses.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Disses/Not Like Us.md",
+                "file": "Disses/Disses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Disses/Not Like Us.md",
+                "file": "Disses/Disses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Disses/Not Like Us.md"
+                "file": "Disses/Disses.md"
               }
             }
           }
@@ -148,15 +148,24 @@
   },
   "active": "ab21a80b0d074934",
   "lastOpenFiles": [
-    "Disses/meet the grahams.md",
     "Disses/Family Matters.md",
+    "Images/Cover Art/Family Matters.jpg",
+    "Disses/Push Ups.md",
+    "Images/Cover Art/Push Ups.jpg",
+    "Disses/meet the grahams.md",
     "Disses/Not Like Us.md",
-    "Disses/Disses.md",
-    "Disses/Taylor Made Freestyle.md",
+    "Images/Cover Art/Not Like Us.jpg",
     "Disses/Like That.md",
+    "Images/Cover Art/meet the grahams Current.jpg",
+    "Images/Cover Art/meet the grahams Original.png",
     "Disses/6-16 in LA.md",
     "Disses/euphoria.md",
-    "Disses/Push Ups.md",
+    "Images/Cover Art/6-16 in LA.jpg",
+    "Disses/Taylor Made Freestyle.md",
+    "Disses/Disses.md",
+    "Images/Cover Art/euphoria.jpg",
+    "Images/Cover Art",
+    "Images",
     "Drake.md",
     "Disses",
     "EbonyPrince2k24.md",

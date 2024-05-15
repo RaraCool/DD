@@ -1,5 +1,7 @@
 Performer: [[Drake]]
 Producers: Boi-1da, Tay Keith, Preme, Fierce, Dramakid, Coleman, Noel Cadastre
+# Cover Art
+![[Push Ups.jpg]]
 # Lyrics
 **Intro**
 (Whoo Kid)

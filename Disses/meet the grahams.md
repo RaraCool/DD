@@ -1,5 +1,10 @@
 Performer: [[Kendrick Lamar]]
 Producer: The Alchemist
+# Cover Art
+## Original
+![[meet the grahams Original.png]]
+## Current
+![[meet the grahams Current.jpg]]
 # Lyrics
 **Verse 1**
 Dear Adonis
