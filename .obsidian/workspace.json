@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Disses/Disses.md",
+                "file": "Disses/The Heart Part 6.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Disses/Disses.md",
+                "file": "Disses/The Heart Part 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Disses/Disses.md",
+                "file": "Disses/The Heart Part 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Disses/Disses.md"
+                "file": "Disses/The Heart Part 6.md"
               }
             }
           }
@@ -146,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab21a80b0d074934",
+  "active": "c71c4d0748f6ae17",
   "lastOpenFiles": [
+    "Images/Cover Art/The Heart Part 6.png",
+    "Disses/Disses.md",
+    "Disses/The Heart Part 6.md",
     "Disses/Family Matters.md",
     "Images/Cover Art/Family Matters.jpg",
     "Disses/Push Ups.md",
@@ -162,7 +165,6 @@
     "Disses/euphoria.md",
     "Images/Cover Art/6-16 in LA.jpg",
     "Disses/Taylor Made Freestyle.md",
-    "Disses/Disses.md",
     "Images/Cover Art/euphoria.jpg",
     "Images/Cover Art",
     "Images",
