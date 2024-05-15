@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1c5f8dc355c5dfa4",
+            "id": "ab21a80b0d074934",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Disses/Not Like Us.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Disses/Not Like Us.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Disses/Not Like Us.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EbonyPrince2k24.md"
+                "file": "Disses/Not Like Us.md"
               }
             }
           }
@@ -140,10 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c71c4d0748f6ae17",
+  "active": "ab21a80b0d074934",
   "lastOpenFiles": [
+    "Disses/meet the grahams.md",
+    "Disses/Family Matters.md",
+    "Disses/Not Like Us.md",
+    "Disses/Disses.md",
+    "Disses/Taylor Made Freestyle.md",
+    "Disses/Like That.md",
+    "Disses/6-16 in LA.md",
+    "Disses/euphoria.md",
+    "Disses/Push Ups.md",
     "Drake.md",
-    "Untitled.md",
+    "Disses",
     "EbonyPrince2k24.md",
     "Kendrick.md"
   ]
