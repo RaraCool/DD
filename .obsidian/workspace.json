@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Disses/The Heart Part 6.md",
+                "file": "People/Christopher Alvarez.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "b8a5c29f7293a0c8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Disses/The Heart Part 6.md",
+                "file": "People/Christopher Alvarez.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Disses/The Heart Part 6.md",
+                "file": "People/Christopher Alvarez.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Disses/The Heart Part 6.md"
+                "file": "People/Christopher Alvarez.md"
               }
             }
           }
@@ -146,23 +154,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c71c4d0748f6ae17",
+  "active": "ab21a80b0d074934",
   "lastOpenFiles": [
-    "Images/Cover Art/The Heart Part 6.png",
-    "Disses/Disses.md",
+    "People/Christopher Alvarez.md",
+    "People/People.md",
+    "People/Christopher Alvarez.md",
     "Disses/The Heart Part 6.md",
+    "Disses/Like That.md",
+    "Disses/meet the grahams.md",
+    "Disses/Not Like Us.md",
     "Disses/Family Matters.md",
+    "Disses/euphoria.md",
+    "Disses/Disses.md",
+    "Disses/6-16 in LA.md",
+    "People",
+    "Images/Cover Art/The Heart Part 6.png",
     "Images/Cover Art/Family Matters.jpg",
     "Disses/Push Ups.md",
     "Images/Cover Art/Push Ups.jpg",
-    "Disses/meet the grahams.md",
-    "Disses/Not Like Us.md",
     "Images/Cover Art/Not Like Us.jpg",
-    "Disses/Like That.md",
     "Images/Cover Art/meet the grahams Current.jpg",
     "Images/Cover Art/meet the grahams Original.png",
-    "Disses/6-16 in LA.md",
-    "Disses/euphoria.md",
     "Images/Cover Art/6-16 in LA.jpg",
     "Disses/Taylor Made Freestyle.md",
     "Images/Cover Art/euphoria.jpg",
